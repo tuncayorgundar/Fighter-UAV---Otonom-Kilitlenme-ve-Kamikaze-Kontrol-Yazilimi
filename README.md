@@ -1,5 +1,14 @@
 # Savaşan İHA - Otonom Kilitlenme ve Kamikaze Kontrol Yazılımı
 
+> [!IMPORTANT]
+> ## 🔒 Takım Gizliliği ve Kaynak Kod Politikası
+>
+> Bu proje, takımımıza ve proje ortaklarımıza ait özel bilgi, yöntem ve uygulamaları içermektedir. **Takım gizliliğini, fikrî emeği ve proje güvenliğini korumak amacıyla kaynak kodlar bu depoda paylaşılmamaktadır.**
+>
+> Bu README; projenin amacı, mimarisi ve kullanılan teknolojiler hakkında genel bir bakış sunar. Kodun tamamı ve ayrıntılı uygulama bileşenleri yalnızca yetkili takım üyelerinin erişimine açıktır.
+>
+> 📩 Proje hakkında daha fazla bilgi için depo sahibiyle iletişime geçebilirsiniz.
+
 ## 📝 Proje Özeti
 Rakip İHA'ları havada tespit edip kilitlenme (lock-on) sağlayan ve yer hedeflerine yönelik otonom kamikaze görevlerini yöneten görüntü işleme tabanlı bir sistemdir. TEKNOFEST Savaşan İHA yarışması isterlerine göre optimize edilmiştir.
 
